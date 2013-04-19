@@ -1,6 +1,6 @@
-# Rails::Db::Resetup
+# Rails-db:resetup
 
-TODO: Write a gem description
+Add rake db:resetup task = db:migrate:reset and db:seed
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ rake db:resetup
 
 ## Contributing
 
